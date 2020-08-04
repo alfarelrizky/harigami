@@ -1,0 +1,61 @@
+c:\users\alfarelrizqi\documents\visual studio 2012\Projects\HARIGAMI OFFLINE APP\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.exe.config
+c:\users\alfarelrizqi\documents\visual studio 2012\Projects\HARIGAMI OFFLINE APP\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Form1.resources
+c:\users\alfarelrizqi\documents\visual studio 2012\Projects\HARIGAMI OFFLINE APP\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Resources.resources
+c:\users\alfarelrizqi\documents\visual studio 2012\Projects\HARIGAMI OFFLINE APP\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.vbproj.GenerateResource.Cache
+c:\users\alfarelrizqi\documents\visual studio 2012\Projects\HARIGAMI OFFLINE APP\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.exe
+c:\users\alfarelrizqi\documents\visual studio 2012\Projects\HARIGAMI OFFLINE APP\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.pdb
+c:\users\alfarelrizqi\documents\visual studio 2012\Projects\HARIGAMI OFFLINE APP\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.xml
+c:\users\alfarelrizqi\documents\visual studio 2012\Projects\HARIGAMI OFFLINE APP\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.exe
+c:\users\alfarelrizqi\documents\visual studio 2012\Projects\HARIGAMI OFFLINE APP\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.xml
+c:\users\alfarelrizqi\documents\visual studio 2012\Projects\HARIGAMI OFFLINE APP\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.pdb
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\HARIGAMI OFFLINE APP\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Form2.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\HARIGAMI OFFLINE APP\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Form3.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\HARIGAMI OFFLINE APP - persatu\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.exe.config
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\HARIGAMI OFFLINE APP - persatu\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.exe
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\HARIGAMI OFFLINE APP - persatu\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.xml
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\HARIGAMI OFFLINE APP - persatu\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.pdb
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\HARIGAMI OFFLINE APP - persatu\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Form1.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\HARIGAMI OFFLINE APP - persatu\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Form2.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\HARIGAMI OFFLINE APP - persatu\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Form3.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\HARIGAMI OFFLINE APP - persatu\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Resources.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\HARIGAMI OFFLINE APP - persatu\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.vbproj.GenerateResource.Cache
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\HARIGAMI OFFLINE APP - persatu\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.exe
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\HARIGAMI OFFLINE APP - persatu\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.pdb
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\HARIGAMI OFFLINE APP - persatu\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.xml
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\SET ENGINE\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.exe.config
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\SET ENGINE\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.exe
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\SET ENGINE\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.xml
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\SET ENGINE\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.pdb
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\SET ENGINE\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.exe
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\SET ENGINE\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.pdb
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\SET ENGINE\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.xml
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\SET ENGINE\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Form1.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\SET ENGINE\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Form2.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\SET ENGINE\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Form3.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\SET ENGINE\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Resources.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\SET ENGINE\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.vbproj.GenerateResource.Cache
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\MIRROR LH\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.exe.config
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\MIRROR LH\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.exe
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\MIRROR LH\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.xml
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\MIRROR LH\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.pdb
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\MIRROR LH\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.exe
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\MIRROR LH\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.pdb
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\MIRROR LH\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.xml
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\MIRROR LH\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Form1.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\MIRROR LH\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Form2.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\MIRROR LH\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Form3.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\MIRROR LH\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Resources.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\MIRROR LH\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.vbproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\MIRROR LH\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\MIRROR LH\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\MIRROR LH\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\MIRROR LH\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\MIRROR LH\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\MIRROR LH\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\MIRROR LH\HARIGAMI OFFLINE APP\bin\Debug\HARIGAMI OFFLINE APP.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\MIRROR LH\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.vbprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\MIRROR LH\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Form1.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\MIRROR LH\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Form2.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\MIRROR LH\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Form3.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\MIRROR LH\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI_OFFLINE_APP.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\MIRROR LH\HARIGAMI OFFLINE APP\obj\Debug\HARIGAMI OFFLINE APP.vbproj.GenerateResource.Cache
